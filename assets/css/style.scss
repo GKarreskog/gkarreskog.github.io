@@ -8,14 +8,46 @@ body {
 }
 
 
+
+@media only screen and (min-width: 1300px){
+
+.wrapper {
+	width: 1200px;
+}
+
+header {
+	width: 400px;
+}
+
+section {
+	width: 750px;
+}
+
+}
+
 .paper-title {
 	margin-bottom: 0;
 }
 
+h1 {
+	font-size: 48px;
+	margin-bottom: 5px;
+}
+
 h2 {
+	margin-top: 3em;
 	margin-bottom: 5px;
 }
 
 .paper-title a{
 	color: #494949;
+}
+
+.distance {
+	display: block;
+	height: 30px;
+}
+
+hr {
+	height: 2px;
 }

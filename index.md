@@ -3,17 +3,20 @@ layout: default
 ---
 
 <!-- # Welcom to my web page -->
-## About Me 
+# Gustav Karreskog 
+<!-- ## About Me  -->
 * * * 
 
-I am currently a Ph.D. student in economics at the Stocholm School of Economics and I am on the academic job market 2020/2021. My reasearch is primarily in the intersection of microeconomic theory and experimental economics. In particular, my research aims at understanding boundedly rational decision making, how incentives and experience guide human decision making via learning and heuristics, and how it impacts population behavior and economic outcomes. 
+I am a Ph.D. student in economics at the Stocholm School of Economics on the academic job market 2020/2021. 
+
+My reasearch is primarily in the intersection of microeconomic theory and experimental economics. In particular, my research aims at understanding boundedly rational decision making, how incentives and experience guide human decision making via learning and heuristics, and how it impacts population behavior and economic outcomes. 
 
 
 ## Job Market Paper 
 * * *
 
 <h3 class="paper-title">Rational Heuristics Predicts Behavior in One-Shot Games </h3>
-_with [Fredrick Callaway](https://fredcallaway.com/) and [Tom Griffths](https://psych.princeton.edu/person/tom-griffiths) (draft available on request)_
+_with [Frederick Callaway](https://fredcallaway.com/) and [Tom Griffiths](https://psych.princeton.edu/person/tom-griffiths) (draft available on request)_
 
 **Abstract:** 
 We present a theory of human behavior in one-shot games as being the result of rational use of heuristics. To test this theory, we first define a broad family of possible heuristics and an associated family of cognitive cost functions. We then ask whether human behavior in a newly collected large dataset of one-shot normal form games is well-explained by the optimal use of heuristics. In particular, we design the experiment to test a key prediction of the theory: the heuristics people employ will be adapted to the environment in which they are used. We find that the behavior of the experimental subjects is consistent with and well explained by heuristic reasoning and optimal use of limited cognitive resources. Furthermore, we show that this rational use of heuristics can have a substantial and predictable impact on the behavior in any single game.
@@ -26,6 +29,8 @@ _with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) (draft available 
 
 **Abstract:** 
 We propose a simple learning model to make out of sample predictions of cooperation rates across treatments in the experimental play of the indefinitely repeated prisoner's dilemma. Although the model has only 4 parameters, it performs almost as well as more complicated models and machine learning algorithms. We find that learning has the most effect on choices in the initial round of each supergame, and that whether cooperation rises or falls in the course of a session depends on the way the initial choices in a supergame determine play in subsequent rounds. Our results also explain past findings on the impact of the risk dominance considerations. 
+
+<div class="distance"></div>
 
 
 <h3 class="paper-title"><a href="https://arxiv.org/abs/2009.12910">Stochastic Stability of a Recency Weighted Sampling Dynamic</a></h3>
