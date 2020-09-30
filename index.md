@@ -16,7 +16,7 @@ My reasearch is primarily in the intersection of microeconomic theory and experi
 * * *
 
 <h3 class="paper-title">Rational Heuristics Predicts Behavior in One-Shot Games </h3>
-_with [Frederick Callaway](https://fredcallaway.com/) and [Tom Griffiths](https://psych.princeton.edu/person/tom-griffiths) (draft available on request)_
+_with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) (draft available on request)_
 
 **Abstract:** 
 We present a theory of human behavior in one-shot games as being the result of rational use of heuristics. To test this theory, we first define a broad family of possible heuristics and an associated family of cognitive cost functions. We then ask whether human behavior in a newly collected large dataset of one-shot normal form games is well-explained by the optimal use of heuristics. In particular, we design the experiment to test a key prediction of the theory: the heuristics people employ will be adapted to the environment in which they are used. We find that the behavior of the experimental subjects is consistent with and well explained by heuristic reasoning and optimal use of limited cognitive resources. Furthermore, we show that this rational use of heuristics can have a substantial and predictable impact on the behavior in any single game.
