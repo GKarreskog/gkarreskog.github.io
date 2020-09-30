@@ -3,6 +3,10 @@ layout: default
 ---
 
 <!-- # Welcom to my web page -->
+## About Me 
+* * * 
+
+I am currently a Ph.D. student in economics at the Stocholm School of Economics and I am on the academic job market 2020/2021. My reasearch is primarily in the intersection of microeconomic theory and experimental economics. In particular, my research aims at understanding boundedly rational decision making, how incentives and experience guide human decision making via learning and heuristics, and how it impacts population behavior and economic outcomes. 
 
 
 ## Job Market Paper 

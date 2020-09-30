@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+body {
+	font-size: 110%;
+}
+
+
 .paper-title {
 	margin-bottom: 0;
 }
