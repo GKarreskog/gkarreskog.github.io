@@ -11,6 +11,7 @@ I am a Ph.D. student in economics at the Stocholm School of Economics on the aca
 
 My reasearch is primarily in the intersection of microeconomic theory and experimental economics. In particular, my research aims at understanding boundedly rational decision making, how incentives and experience guide human decision making via learning and heuristics, and how it impacts population behavior and economic outcomes. 
 
+[Download my CV](CV - Gustav Karreskog.pdf)
 
 ## Job Market Paper 
 * * *
@@ -47,3 +48,17 @@ _Proceedings of the American Mathematical Society_ 144.3 (2016): 1197-1207. ([Jo
 
 **Abstract:** 
 Spectral properties of the Schrodinger operator on a finite compact metric graph with delta-type vertex conditions are discussed. Explicit estimates for the lowest eigenvalue (ground state) are obtained using two different methods: Eulerian cycle and symmetrization techniques.
+
+
+## Work in Progress 
+* * *
+<h3 class="paper-title"> Cue based decision making and context effects</h3>
+_with [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/)_ 
+
+**Description**
+We seek to understand context effets, such as default- and decoy-effects, from the perspective of adaptive heuristics. The fundamental insight is that when a decision maker face a decision problem where she is uncertain about the values of different alternatives, the context and cues can affect the conditional expectation of the different values, even if they do not directly influence the value of the options. If a default is set because someone with good intentions and better information recommends it, conditioning on that information should affect the decision of an uncertain but rational DM. If the default is set randomly on the other hand, even uncertain DM should ignore it. We seek to test if this can explain known decoy effects by comparing situations where the conditional expectation should and shoud not change based on the cues, in otherwise identical situations. 
+
+
+<h3 class="paper-title"> Better estimation of learning models by predicting the evolution of population play </h3>
+
+**Description** 
