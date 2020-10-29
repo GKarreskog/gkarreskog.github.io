@@ -7,11 +7,11 @@ layout: default
 <!-- ## About Me  -->
 * * *
 
-I am a Ph.D. student in economics at the Stocholm School of Economics. I am on the academic job market 2020/2021. 
+I am a Ph.D. student in economics at the Stockholm School of Economics. I am on the academic job market 2020/2021. 
 
 My reasearch is primarily in the intersection of microeconomic theory and experimental economics. In particular, my research aims at understanding boundedly rational decision making, how incentives and experience guide human decision making via learning and heuristics, and how it impacts population behavior and economic outcomes.
 
-[Download my CV](CV - Gustav Karreskog.pdf)
+[Download my CV](files/CV - Gustav Karreskog.pdf)
 
 ## Job Market Paper
 * * *
