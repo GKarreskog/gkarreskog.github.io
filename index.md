@@ -29,7 +29,7 @@ We present a theory of human behavior in one-shot games as being the result of r
 _with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2020.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2020.pdf))_
 
 **Abstract:**
-We propose a simple learning model to make out of sample predictions of cooperation rates across treatments in the experimental play of the indefinitely repeated prisoner's dilemma. Although the model has only 4 parameters, it performs almost as well as more complicated models and machine learning algorithms. We find that learning has the most effect on choices in the initial round of each supergame, and that whether cooperation rises or falls in the course of a session depends on the way the initial choices in a supergame determine play in subsequent rounds. Our results also explain past findings on the impact of the risk dominance considerations.
+We propose a simple learning model to predict cooperation rates across treatments in the experimental play of the indefinitely repeated prisoner's dilemma.  Although the model has only 4 parameters, it performs almost as well as more complicated models and machine learning algorithms. We find that learning has the most effect on choices in the initial round of each supergame, and that whether cooperation rises or falls in the course of a session depends on the way the initial choices in a supergame determine play in subsequent rounds. Our results also explain past findings on the impact of the risk dominance considerations.
 
 <div class="distance"></div>
 
