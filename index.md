@@ -17,7 +17,7 @@ My reasearch is primarily in the intersection of microeconomic theory and experi
 * * *
 
 <h3 class="paper-title">Rational Heuristics for One-Shot Games </h3>
-_with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) (draft available on request)_
+_with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](jmp_karreskog.pdf))_
 
 **Abstract:**
 We present a theory of human behavior in one-shot games as being the result of rational use of heuristics. To test this theory, we define a broad family of heuristics for one-shot games and an associated family of cognitive cost functions. 
