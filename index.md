@@ -16,7 +16,7 @@ My reasearch is primarily in the intersection of microeconomic theory and experi
 ## Job Market Paper
 * * *
 
-<h3 class="paper-title">[Rational Heuristics for One-Shot Games](files/jmp_karreskog.pdf) </h3>
+<h3 class="paper-title"><a href="files/jmp_karreskog.pdf">Rational Heuristics for One-Shot Games </a></h3>
 _with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/jmp_karreskog.pdf))_
 
 **Abstract:**
