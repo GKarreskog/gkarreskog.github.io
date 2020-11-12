@@ -20,8 +20,7 @@ My reasearch is primarily in the intersection of microeconomic theory and experi
 _with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/jmp_karreskog.pdf))_
 
 **Abstract:**
-We present a theory of human behavior in one-shot games as being the result of rational use of heuristics. To test this theory, we define a broad family of heuristics for one-shot games and an associated family of cognitive cost functions. 
-In a large, preregistered experiment, we find that human behavior is quantitatively well predicted by heuristic reasoning and optimal use of limited cognitive resources---better than existing models based on iterated reasoning. Furthermore, we find that, holding the game constant, our participants' actions depend on their previous experience in the way predicted by our theory.
+Work in behavioral economics suggests that perfect rationality is an insufficient model of human decision making. However, the empirically observed deviations or biases vary substantially between environments. There is, therefore, a need for theories that can tell us when and how we should expect deviations from rational behavior. We suggest that such a theory can be found by assuming optimal use of limited cognitive resources. In this paper, we present a theory of human behavior in one-shot interactions based on the rational use of heuristics. We test our theory by defining a broad family of heuristics for one-shot games and associated cognitive cost functions. In a large, preregistered experiment, we find that behavior is well predicted by our theory, which yields better predictions than existing models. We find that the participants' actions depend on their environment and previous experiences, in the way predicted by the rational use of heuristics.
 
 ## Working Papers
 * * *
