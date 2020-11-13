@@ -25,7 +25,7 @@ Work in behavioral economics suggests that perfect rationality is an insufficien
 ## Working Papers
 * * *
 
-<h3 class="paper-title"><a href="files/Online appendix - Fudenberg & Karreskog - 2020.pdf">Learning about Initial Play Determines Average Cooperation in Repeated Games</a></h3>
+<h3 class="paper-title"><a href="files/Fudenberg & Karreskog - 2020.pdf">Learning about Initial Play Determines Average Cooperation in Repeated Games</a></h3>
 _with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2020.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2020.pdf))_
 
 **Abstract:**
