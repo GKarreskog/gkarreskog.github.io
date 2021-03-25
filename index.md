@@ -7,7 +7,7 @@ layout: default
 <!-- ## About Me  -->
 * * *
 
-I am a Ph.D. student in economics at the Stockholm School of Economics. I am on the academic job market 2020/2021. 
+I am a Ph.D. student in economics at the Stockholm School of Economics. I am on the academic job market 2020/2021.
 
 My reasearch is primarily in the intersection of microeconomic theory and experimental economics. In particular, my research aims at understanding boundedly rational decision making, how incentives and experience guide human decision making via learning and heuristics, and how it impacts population behavior and economic outcomes.
 
@@ -29,7 +29,7 @@ Work in behavioral economics suggests that perfect rationality is an insufficien
 _with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2020.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2020.pdf))_
 
 **Abstract:**
-We propose a simple learning model to predict cooperation rates across treatments in the experimental play of the indefinitely repeated prisoner's dilemma.  Although the model has only 4 parameters, it performs almost as well as more complicated models and machine learning algorithms. We find that learning has the most effect on choices in the initial round of each supergame, and that whether cooperation rises or falls in the course of a session depends on the way the initial choices in a supergame determine play in subsequent rounds. Our results also explain past findings on the impact of the risk dominance considerations.
+We predict cooperation rates across treatments in the experimental play of the indefinitely repeated prisoner's dilemma using simulations of a simple learning model. We suppose that learning and the game parameters only influence play in the initial round of each supergame.  Using data from 17 papers, we find that our model predicts out-of-sample cooperation at least as well as more complicated models with more parameters  and machine learning algorithms.  Our results let us predict how cooperation rates change with longer experimental sessions, and explain and sharpen  past findings on the role of strategic uncertainty.
 
 <div class="distance"></div>
 
@@ -60,4 +60,4 @@ We seek to understand context effets, such as default- and decoy-effects, from t
 
 
 <h3 class="paper-title"> Estimation of Learning Models Using Approximate Bayesian Computation</h3>
-An important question is how to best estimate learning models based on experimental data. Common approaches involving estimating individual parameters based on the exact sequence of decisions made are known to have problems such as low power and biased estimates, (Salmon, 2001; Wilcox 2006). In this project, I suggest that instead of focusing on each decision taken by the individuals, we should search for learning models that are likely to reproduce the time-path of the population's behavior. By considering data simulated under different assumptions, I show that using Approximate Bayesian Computation to find the learning models that are most likely to reproduce the population's time-path, we get more reliable estimates of the learning models. Furthermore, this way, we make sure we capture the learning models' aspects with the most important implications. Lastly, I apply this method on existing data to derive new conclusions. 
+An important question is how to best estimate learning models based on experimental data. Common approaches involving estimating individual parameters based on the exact sequence of decisions made are known to have problems such as low power and biased estimates, (Salmon, 2001; Wilcox 2006). In this project, I suggest that instead of focusing on each decision taken by the individuals, we should search for learning models that are likely to reproduce the time-path of the population's behavior. By considering data simulated under different assumptions, I show that using Approximate Bayesian Computation to find the learning models that are most likely to reproduce the population's time-path, we get more reliable estimates of the learning models. Furthermore, this way, we make sure we capture the learning models' aspects with the most important implications. Lastly, I apply this method on existing data to derive new conclusions.
