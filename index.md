@@ -7,7 +7,7 @@ layout: default
 <!-- ## About Me  -->
 * * *
 
-I am a Ph.D. student in economics at the Stockholm School of Economics. I am on the academic job market 2020/2021.
+I am currently a Postdoc at the Department of Economics at Uppsala University. I completed my Ph.D. at Stockholm School of Economics in the Spring of 2021.
 
 My reasearch is primarily in the intersection of microeconomic theory and experimental economics. In particular, my research aims at understanding boundedly rational decision making, how incentives and experience guide human decision making via learning and heuristics, and how it impacts population behavior and economic outcomes.
 
@@ -26,7 +26,7 @@ Work in behavioral economics suggests that perfect rationality is an insufficien
 * * *
 
 <h3 class="paper-title"><a href="files/Fudenberg & Karreskog - 2021.pdf">Predicting Average Cooperation in the Repeated Prisoner’s Dilemma</a></h3>
-_with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2021.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2020.pdf))_
+_with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2021.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2021.pdf))_
 
 **Abstract:**
 We predict cooperation rates across treatments in the experimental play of the indefinitely repeated prisoner's dilemma using simulations of a simple learning model. We suppose that learning and the game parameters only influence play in the initial round of each supergame.  Using data from 17 papers, we find that our model predicts out-of-sample cooperation at least as well as more complicated models with more parameters  and machine learning algorithms.  Our results let us predict how cooperation rates change with longer experimental sessions, and explain and sharpen  past findings on the role of strategic uncertainty.
