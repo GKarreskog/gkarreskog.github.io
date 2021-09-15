@@ -25,12 +25,11 @@ Work in behavioral economics suggests that perfect rationality is an insufficien
 ## Working Papers
 * * *
 
-<h3 class="paper-title"><a href="files/Fudenberg & Karreskog - 2021.pdf">Predicting Average Cooperation in the Repeated Prisoner’s Dilemma</a></h3>
+<h3 class="paper-title"><a href="files/Fudenberg & Karreskog - 2021.pdf">Predicting Cooperation with Learning Models</a></h3>
 _with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2021.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2021.pdf))_
 
 **Abstract:**
-We predict cooperation rates across treatments in the experimental play of the indefinitely repeated prisoner's dilemma using simulations of a simple learning model. We suppose that learning and the game parameters only influence play in the initial round of each supergame.  Using data from 17 papers, we find that our model predicts out-of-sample cooperation at least as well as more complicated models with more parameters  and machine learning algorithms.  Our results let us predict how cooperation rates change with longer experimental sessions, and explain and sharpen  past findings on the role of strategic uncertainty.
-
+We use simulations of a simple learning model to predict how cooperation varies with treatment  in the experimental play of the indefinitely repeated prisoner's dilemma.  We suppose that learning and the game parameters only influence play in the initial round of each supergame and that after these rounds, play depends only on the outcome of the previous round.  Using data from 17 papers, we find that our model predicts out-of-sample cooperation at least as well as more complicated models with more parameters  and harder-to-interpret  machine learning algorithms.  Our results let us predict how cooperation rates change with longer experimental sessions, and help explain  past findings on the role of strategic uncertainty.
 <div class="distance"></div>
 
 
