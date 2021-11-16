@@ -17,7 +17,7 @@ My reasearch is primarily in the intersection of microeconomic theory and experi
 * * *
 
 <h3 class="paper-title"><a href="files/jmp_karreskog.pdf">Rational Heuristics for One-Shot Games </a></h3>
-_with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/jmp_karreskog.pdf))_
+_with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/jmp_karreskog.pdf))_ Latest version: May 2021
 
 **Abstract:**
 Work in behavioral economics suggests that perfect rationality is an insufficient model of human decision making. However, the empirically observed deviations or biases vary substantially between environments. There is, therefore, a need for theories that can tell us when and how we should expect deviations from rational behavior. We suggest that such a theory can be found by assuming optimal use of limited cognitive resources. In this paper, we present a theory of human behavior in one-shot interactions based on the rational use of heuristics. We test our theory by defining a broad family of heuristics for one-shot games and associated cognitive cost functions. In a large, preregistered experiment, we find that behavior is well predicted by our theory, which yields better predictions than existing models. We find that the participants' actions depend on their environment and previous experiences, in the way predicted by the rational use of heuristics.
@@ -26,7 +26,7 @@ Work in behavioral economics suggests that perfect rationality is an insufficien
 * * *
 
 <h3 class="paper-title"><a href="files/Fudenberg & Karreskog - 2021.pdf">Predicting Cooperation with Learning Models</a></h3>
-_with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2021.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2021.pdf))_ Latest version, November 2021
+_with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2021.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2021.pdf))_ Latest version: November 2021
 
 **Abstract:**
 We use simulations of a simple learning model to predict how cooperation varies with treatment  in the experimental play of the indefinitely repeated prisoner's dilemma.  We suppose that learning and the game parameters only influence play in the initial round of each supergame and that after these rounds, play depends only on the outcome of the previous round.  Using data from 17 papers, we find that our model predicts out-of-sample cooperation at least as well as more complicated models with more parameters  and harder-to-interpret  machine learning algorithms.  Our results let us predict how cooperation rates change with longer experimental sessions, and help explain  past findings on the role of strategic uncertainty.
@@ -34,7 +34,7 @@ We use simulations of a simple learning model to predict how cooperation varies 
 
 
 <h3 class="paper-title"><a href="https://arxiv.org/abs/2009.12910">Stochastic Stability of a Recency Weighted Sampling Dynamic</a></h3>
-_with [Alexander Aurell](http://www.aurell.st) ([arXiv](https://arxiv.org/abs/2009.12910), [PDF](files/2009.12910.pdf))_
+_with [Alexander Aurell](http://www.aurell.st) ([arXiv](https://arxiv.org/abs/2009.12910), [PDF](files/2009.12910.pdf))_ Latest version: September 2020
 
 **Abstract:**
 It is common to model learning in games so that either a deterministic process or a finite state Markov chain describes the evolution of play. Such processes can however produce undesired outputs, where the players' behavior is heavily influenced by the modeling. In simulations we see how the assumptions in (Young, 1993), a well-studied model for stochastic stability, lead to unexpected behavior in games without strict equilibria, such as Matching Pennies. The behavior should be considered a modeling artifact. In this paper we propose a continuous-state space model for learning in games that can converge to mixed Nash equilibria, the Recency Weighted Sampler (RWS). The RWS is similar in spirit Young's model, but introduces a notion of best response where the players sample from a recency weighted history of interactions. We derive properties of the RWS which are known to hold for finite-state space models of adaptive play, such as the convergence to and existence of a unique invariant distribution of the process, and the concentration of that distribution on minimal CURB blocks. Then, we establish conditions under which the RWS process concentrates on mixed Nash equilibria inside minimal CURB blocks. While deriving the results, we develop a methodology that is relevant for a larger class of continuous state space learning models.
