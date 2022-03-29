@@ -17,10 +17,10 @@ My reasearch is primarily in the intersection of microeconomic theory and experi
 * * *
 
 <h3 class="paper-title"><a href="files/jmp_karreskog.pdf">Rational Heuristics for One-Shot Games </a></h3>
-_with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/jmp_karreskog.pdf))_ Latest version: May 2021
+_with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/jmp_karreskog.pdf))_ Latest version: March 2022
 
 **Abstract:**
-Work in behavioral economics suggests that perfect rationality is an insufficient model of human decision making. However, the empirically observed deviations or biases vary substantially between environments. There is, therefore, a need for theories that can tell us when and how we should expect deviations from rational behavior. We suggest that such a theory can be found by assuming optimal use of limited cognitive resources. In this paper, we present a theory of human behavior in one-shot interactions based on the rational use of heuristics. We test our theory by defining a broad family of heuristics for one-shot games and associated cognitive cost functions. In a large, preregistered experiment, we find that behavior is well predicted by our theory, which yields better predictions than existing models. We find that the participants' actions depend on their environment and previous experiences, in the way predicted by the rational use of heuristics.
+We present a theory of human behavior in one-shot interactions based on the assumption that people use heuristics that optimally trade off expected payoff and cognitive costs. The theory predicts that people's behavior will depend on their past experience; specifically, they will make choices using heuristics that would have performed well in previously played games. We confirm this prediction in a large, preregistered experiment. The rational heuristics model provides a strong quantitative account of participant behavior, outperforming existing models. More broadly, our results suggest that synthesizing heuristic and optimal models is a powerful tool for understanding and predicting economic decisions.
 
 ## Working Papers
 * * *
