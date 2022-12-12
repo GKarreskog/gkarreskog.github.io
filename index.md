@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- # Welcom to my web page -->
-# Gustav Karreskog
+# Gustav Karreskog Rehbinder
 <!-- ## About Me  -->
 * * *
 
