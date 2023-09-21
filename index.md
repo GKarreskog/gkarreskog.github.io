@@ -52,11 +52,11 @@ Spectral properties of the Schrodinger operator on a finite compact metric graph
 
 ## Work in Progress
 * * *
-<h3 class="paper-title"> Cue based decision making and context effects</h3>
-_with [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/)_
+<h3 class="paper-title">You can fool some of the people some of the time but you can help everyone forever: understanding the effectiveness of nudges</h3>
+_with [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/) and [Mattias Forsgren](https://www.katalog.uu.se/empinfo/?id=N21-767)_
 
 **Description**
-We seek to understand context effets, such as default- and decoy-effects, from the perspective of adaptive heuristics. The fundamental insight is that when a decision maker face a decision problem where she is uncertain about the values of different alternatives, the context and cues can affect the conditional expectation of the different values, even if they do not directly influence the value of the options. If a default is set because someone with good intentions and better information recommends it, conditioning on that information should affect the decision of an uncertain but rational DM. If the default is set randomly on the other hand, even uncertain DM should ignore it. We seek to test if this can explain known decoy effects by comparing situations where the conditional expectation should and shoud not change based on the cues, in otherwise identical situations.
+Why do nudges sometimes fail to deliver the promised behaviour change? We argue that part of the explanation may be that people learn whether the nudge is guiding them towards their goals. If not, they ignore it. Such "cue learning" is an established psychological phenomenon where people learn to predict unobserved properties from immediately available information. In an experiment, we show that participants quickly learn to choose in accordance with a nudge in proportion to how well it predicts the superior option. This demonstrates why choice architects should align their nudging with the preferences of the nudgees.
 
 
 <h3 class="paper-title"> Estimation of Learning Models Using Approximate Bayesian Computation</h3>
