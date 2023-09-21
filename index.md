@@ -27,7 +27,6 @@ We present a theory of human behavior in one-shot interactions based on the assu
 
 <h3 class="paper-title"><a href="files/Fudenberg & Karreskog - 2022.pdf">Predicting Cooperation with Learning Models</a></h3>
 _forthcoming in [American Economic Journal: Microeconomics](https://www.aeaweb.org/articles?id=10.1257/mic.20220148)_
-
 _with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2022.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2022.pdf))_ Latest version: October 2022
 
 **Abstract:**
