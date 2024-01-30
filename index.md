@@ -13,24 +13,23 @@ My reasearch is primarily in the intersection of microeconomic theory and experi
 
 [Download my CV](files/CV - Gustav Karreskog.pdf)
 
-## Job Market Paper
+## Publications 
 * * *
+<h3 class="paper-title"><a href="files/Fudenberg & Karreskog - 2022.pdf">Predicting Cooperation with Learning Models</a></h3>
+_[American Economic Journal: Microeconomics, 2024, 16 (1): 1-32](https://www.aeaweb.org/articles?id=10.1257/mic.20220148)_<br>
+_with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2022.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2022.pdf))_ 
 
+**Abstract:**
+We use simulations of a simple learning model to predict cooperation rates in the experimental play of the indefinitely repeated prisoner's dilemma.  We suppose that learning and the game parameters only influence play in the initial round of each supergame, and that after these rounds play depends only on the outcome of the previous round.  We find that our model predicts out-of-sample cooperation at least as well as models with more parameters  and harder-to-interpret  machine learning algorithms.  Our results let us predict the effect of  session length and help explain  past findings on the role of strategic uncertainty. 
+
+
+## Working Papers
+* * *
 <h3 class="paper-title"><a href="files/jmp_karreskog.pdf">Rational Heuristics for One-Shot Games </a></h3>
 _with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/jmp_karreskog.pdf))_ Latest version: March 2022
 
 **Abstract:**
 We present a theory of human behavior in one-shot interactions based on the assumption that people use heuristics that optimally trade off expected payoff and cognitive costs. The theory predicts that people's behavior will depend on their past experience; specifically, they will make choices using heuristics that would have performed well in previously played games. We confirm this prediction in a large, preregistered experiment. The rational heuristics model provides a strong quantitative account of participant behavior, outperforming existing models. More broadly, our results suggest that synthesizing heuristic and optimal models is a powerful tool for understanding and predicting economic decisions.
-
-## Working Papers
-* * *
-
-<h3 class="paper-title"><a href="files/Fudenberg & Karreskog - 2022.pdf">Predicting Cooperation with Learning Models</a></h3>
-_forthcoming in [American Economic Journal: Microeconomics](https://www.aeaweb.org/articles?id=10.1257/mic.20220148)_<br>
-_with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2022.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2022.pdf))_ Latest version: October 2022
-
-**Abstract:**
-We use simulations of a simple learning model to predict cooperation rates in the experimental play of the indefinitely repeated prisoner's dilemma.  We suppose that learning and the game parameters only influence play in the initial round of each supergame, and that after these rounds play depends only on the outcome of the previous round.  We find that our model predicts out-of-sample cooperation at least as well as models with more parameters  and harder-to-interpret  machine learning algorithms.  Our results let us predict the effect of  session length and help explain  past findings on the role of strategic uncertainty. 
 <div class="distance"></div>
 
 
@@ -53,7 +52,7 @@ Spectral properties of the Schrodinger operator on a finite compact metric graph
 ## Work in Progress
 * * *
 <h3 class="paper-title">You can fool some of the people some of the time but you can help everyone forever: understanding the effectiveness of nudges</h3>
-_with [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/) and [Mattias Forsgren](https://www.katalog.uu.se/empinfo/?id=N21-767)_
+_with [Mattias Forsgren](https://www.katalog.uu.se/empinfo/?id=N21-767) and [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/)_
 
 **Description**
 Why do nudges sometimes fail to deliver the promised behaviour change? We argue that part of the explanation may be that people learn whether the nudge is guiding them towards their goals. If not, they ignore it. Such "cue learning" is an established psychological phenomenon where people learn to predict unobserved properties from immediately available information. In an experiment, we show that participants quickly learn to choose in accordance with a nudge in proportion to how well it predicts the superior option. This demonstrates why choice architects should align their nudging with the preferences of the nudgees.
