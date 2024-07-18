@@ -33,7 +33,7 @@ We present a theory of human behavior in one-shot interactions based on the assu
 <div class="distance"></div>
 
 <h3 class="paper-title"><a href="files/Forsgren, Karreskog Rehbinder & Mandl - 2024.pdf">You can fool some of the people some of the time but you can help everyone forever: learning and effective nudging</a></h3>
-_with [Mattias Forsgren](https://www.katalog.uu.se/empinfo/?id=N21-767) and [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/) ([PDF] (files/Forsgren, Karreskog Rehbinder & Mandl - 2024.pdf))_ Latest version: July 2024
+_with [Mattias Forsgren](https://www.katalog.uu.se/empinfo/?id=N21-767) and [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/) ([PDF](files/Forsgren, Karreskog Rehbinder & Mandl - 2024.pdf))_ Latest version: July 2024
 
 **Abstract**
 Why do nudges sometimes fail to deliver the promised behaviour change? We argue that part of the explanation may be that people learn whether the nudge is guiding them towards their goals or not. In an experiment, we show that participants quickly learn to choose in accordance with a nudge proportionally to how well it predicts the superior option. This illustrates a more general point: unless choice architects align their nudging with the goals of the nudgee, the latter's capacity to learn and make inferences may allow them to come up with strategies to avoid being nudged.
