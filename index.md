@@ -25,12 +25,18 @@ We use simulations of a simple learning model to predict cooperation rates in th
 
 ## Working Papers
 * * *
-<h3 class="paper-title"><a href="files/jmp_karreskog.pdf">Rational Heuristics for One-Shot Games </a></h3>
-_with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/jmp_karreskog.pdf))_ Latest version: March 2022
+<h3 class="paper-title"><a href="files/Callaway, Griffiths & Karreskog Rehbinder - 2024.pdf">Rational Heuristics for One-Shot Games </a></h3>
+_with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/Callaway, Griffiths & Karreskog Rehbinder - 2024.pdf))_ Latest version: March 2024
 
 **Abstract:**
 We present a theory of human behavior in one-shot interactions based on the assumption that people use heuristics that optimally trade off expected payoff and cognitive costs. The theory predicts that people's behavior will depend on their past experience; specifically, they will make choices using heuristics that would have performed well in previously played games. We confirm this prediction in a large, preregistered experiment. The rational heuristics model provides a strong quantitative account of participant behavior, outperforming existing models. More broadly, our results suggest that synthesizing heuristic and optimal models is a powerful tool for understanding and predicting economic decisions.
 <div class="distance"></div>
+
+<h3 class="paper-title"><a href="files/Forsgren, Karreskog Rehbinder & Mandl - 2024.pdf">You can fool some of the people some of the time but you can help everyone forever: learning and effective nudging<a/></h3>
+_with [Mattias Forsgren](https://www.katalog.uu.se/empinfo/?id=N21-767) and [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/)_ ([PDF] (files/Forsgren, Karreskog Rehbinder & Mandl - 2024.pdf))_ Latest version: July 2024
+
+**Abstract**
+Why do nudges sometimes fail to deliver the promised behaviour change? We argue that part of the explanation may be that people learn whether the nudge is guiding them towards their goals or not. In an experiment, we show that participants quickly learn to choose in accordance with a nudge proportionally to how well it predicts the superior option. This illustrates a more general point: unless choice architects align their nudging with the goals of the nudgee, the latter's capacity to learn and make inferences may allow them to come up with strategies to avoid being nudged.
 
 
 <h3 class="paper-title"><a href="https://arxiv.org/abs/2009.12910">Stochastic Stability of a Recency Weighted Sampling Dynamic</a></h3>
@@ -51,11 +57,11 @@ Spectral properties of the Schrodinger operator on a finite compact metric graph
 
 ## Work in Progress
 * * *
-<h3 class="paper-title">You can fool some of the people some of the time but you can help everyone forever: understanding the effectiveness of nudges</h3>
-_with [Mattias Forsgren](https://www.katalog.uu.se/empinfo/?id=N21-767) and [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/)_
+<h3 class="paper-title">Naturally formed preferences are transitive</h3>
+_with [Mattias Forsgren](https://www.katalog.uu.se/empinfo/?id=N21-767) and [Peter Juslin](https://www.uu.se/en/contact-and-organisation/staff?query=XX3971)_
 
 **Description**
-Why do nudges sometimes fail to deliver the promised behaviour change? We argue that part of the explanation may be that people learn whether the nudge is guiding them towards their goals. If not, they ignore it. Such "cue learning" is an established psychological phenomenon where people learn to predict unobserved properties from immediately available information. In an experiment, we show that participants quickly learn to choose in accordance with a nudge in proportion to how well it predicts the superior option. This demonstrates why choice architects should align their nudging with the preferences of the nudgees.
+Transitive preferences is a central feature of a competent, coherence rational decision maker and a common assumption in formal theories. Almost all previous psychological investigations of transitivity of preferences have used artificial options exhaustively defined by a list of properties (typically so-called monetary gambles). Yet, cognitive theories of judgement and decision making fundamentally seek to make claims about preferences for objects we encounter in the real world. Here, we sample such objects and investigate the “Fechnerian” theory that (covert) preferences are fundamentally transitive but that (overt) choices are made with noise and thus may violate transitivity depending on how clearly one object is preferred over the other. When one object is strongly preferred, the overt choices will align with the covert transitive preferences. When differences in strength of preference are smaller, overt choices are more likely to violate the covert preferences. Strength of preference is, in turn, mediated by “learning what you like” from familiarity with the object. We perform two large sample experiments to test this theory. Regression analyses on judgements are (i) consistent with the chain just described. Model comparison on choices (ii) favours the kind of model described above and (iii) indicates little to no existence of intransitive preferences for objects. Transitive preferences appears to be a safe assumption for formal theories in so far as their scope is choices between familiar objects.
 
 
 <h3 class="paper-title"> Estimation of Learning Models Using Approximate Bayesian Computation</h3>
