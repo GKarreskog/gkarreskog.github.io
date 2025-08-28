@@ -7,7 +7,7 @@ layout: default
 <!-- ## About Me  -->
 * * *
 
-I am currently a Researcher at Insitute of Future Studies in Stockholm. I completed my Ph.D. at Stockholm School of Economics in the Spring of 2021.
+I am currently a Researcher in Economics at the Insitute of Future Studies in Stockholm. I completed my Ph.D. at Stockholm School of Economics in the Spring of 2021.
 
 My reasearch is primarily in the intersection of microeconomic theory and experimental economics. In particular, my research aims at understanding boundedly rational decision making, how incentives and experience guide human decision making via learning and heuristics, and how it impacts population behavior and economic outcomes.
 
