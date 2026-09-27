@@ -15,6 +15,14 @@ My reasearch is primarily in the intersection of microeconomic theory and experi
 
 ## Publications 
 * * *
+<h3 class="paper-title"><a href="https://www.nature.com/articles/s41598-025-32580-z">Probabilistic functionalism as a limiting condition for robustness</a></h3>
+_[Scientific Reports, 2025, 15: 44333](https://www.nature.com/articles/s41598-025-32580-z)_<br>
+_with [Mattias Forsgren](https://www.katalog.uu.se/empinfo/?id=N21-767) and [Benjamin Mandl](https://www.hhs.se/sv/persons/m/mandl-benjamin/) ([Journal](https://www.nature.com/articles/s41598-025-32580-z))_
+
+**Abstract:**
+We examine when behavioural effects remain robust as people learn whether features of a choice environment predict desirable outcomes. In an experiment, both the attraction effect and a default nudge vary with how reliably those features signal the superior option, suggesting that cue-outcome relationships limit the robustness of such effects.
+<div class="distance"></div>
+
 <h3 class="paper-title"><a href="files/Fudenberg & Karreskog - 2022.pdf">Predicting Cooperation with Learning Models</a></h3>
 _[American Economic Journal: Microeconomics, 2024, 16 (1): 1-32](https://www.aeaweb.org/articles?id=10.1257/mic.20220148)_<br>
 _with [Drew Fudenberg](http://economics.mit.edu/faculty/drewf) ([PDF](files/Fudenberg & Karreskog - 2022.pdf), [Online Appendix](files/Online appendix - Fudenberg & Karreskog - 2022.pdf))_ 
@@ -25,6 +33,13 @@ We use simulations of a simple learning model to predict cooperation rates in th
 
 ## Working Papers
 * * *
+<h3 class="paper-title"><a href="https://www.ifn.se/en/publications/working-papers/2024/1507/">Between Scylla and Charybdis: The Trade-Offs of Coalition Formation under Radical-Right Pressure</a></h3>
+_with Anders Kärnä, Jaakko Meriläinen and John Norell ([IFN Working Paper No. 1507](https://www.ifn.se/en/publications/working-papers/2024/1507/), [PDF](https://www.ifn.se/media/x2ahzbxu/wp1507.pdf))_ Latest version: August 2026
+
+**Abstract:**
+We study when established parties abandon their exclusion of populist radical-right parties, using Swedish municipal politics as a case. Our analysis identifies an electoral-support threshold of about 18.5%, above which the Sweden Democrats become substantially more likely to join governing coalitions. Coalition size, office rents and ideological dispersion also change as their support approaches and crosses this threshold.
+<div class="distance"></div>
+
 <h3 class="paper-title"><a href="files/Callaway, Griffiths & Karreskog Rehbinder - 2024.pdf">Rational Heuristics for One-Shot Games </a></h3>
 _with [Frederick Callaway](https://fredcallaway.com/) and [Thomas L. Griffiths](https://psych.princeton.edu/person/tom-griffiths) ([PDF](files/Callaway, Griffiths & Karreskog Rehbinder - 2024.pdf))_ Latest version: March 2024
 
